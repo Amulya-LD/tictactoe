@@ -1,1 +1,2 @@
-this file is a gaming application of the tic tac toe which called X O X
+The tie tae toe is the mini project of javascript
+The programming language used are HTML, Css, javascript 
